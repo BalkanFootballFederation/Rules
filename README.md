@@ -1,37 +1,34 @@
-<div align="center">
+<p align="center">
+  <img src="assets/bff-rulebook-cover.svg" alt="BFF — Balkan Football Federation | Official Rules and Regulations" width="100%">
+</p>
 
-<img src="assets/bff-rulebook-cover.svg" alt="Balkan Football Federation — official documentation" width="100%" />
+<h1 align="center">BFF — Official Documentation</h1>
 
-<br />
+<p align="center">
+  <strong>Balkan Football Federation</strong><br>
+  The official competition handbook for clubs, players, referees and federation staff.
+</p>
 
-# BFF — Official Documentation
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OFFICIAL-2A9D8F?style=for-the-badge&labelColor=152238" alt="Official handbook">
+  <img src="https://img.shields.io/badge/EDITION-2026-BD8942?style=for-the-badge&labelColor=152238" alt="2026 edition">
+  <img src="https://img.shields.io/badge/FORMAT-4v4-35516E?style=for-the-badge&labelColor=152238" alt="4v4 format">
+</p>
 
-### Balkan Football Federation
-
-**The official competition handbook for clubs, players, referees and federation staff.**
-
-<br />
-
-![Official Handbook](https://img.shields.io/badge/BFF-OFFICIAL_HANDBOOK-69DBC4?style=for-the-badge&labelColor=10182B&color=1C938B)
-![Edition](https://img.shields.io/badge/EDITION-2026-F8C96A?style=for-the-badge&labelColor=10182B&color=BD8942)
-![Match Format](https://img.shields.io/badge/MATCH_FORMAT-4v4-DCE8F6?style=for-the-badge&labelColor=10182B&color=35516E)
-
-<br />
-
-**[Explore the rules](#documentation-library)** · **[Match essentials](#match-essentials)** · **[Federation authority](#federation-authority)**
-
-</div>
+<p align="center">
+  <a href="#documentation-library"><strong>Explore the rules</strong></a> ·
+  <a href="#match-essentials"><strong>Match essentials</strong></a> ·
+  <a href="#federation-authority"><strong>Federation authority</strong></a>
+</p>
 
 ---
 
 > [!IMPORTANT]
-> **This is the official BFF rules repository.** All registered players, clubs, owners, referees, and staff are expected to follow the current edition. Use the chapter links below to read the full rules.
+> **Official BFF documentation.** All registered players, club owners, managers, referees and staff must follow the current rulebook. The full regulations are available through the chapter links below.
 
-## Match essentials
+## ⚽ Match essentials
 
-<div align="center">
-
-| ⚽ **THE FORMAT** | ⏱️ **MATCH TIME** | 👥 **SQUAD LIMIT** |
+| ⚽ **FORMAT** | ⏱️ **MATCH TIME** | 👥 **SQUAD LIMIT** |
 | :---: | :---: | :---: |
 | **4v4** | **20 minutes** | **15 players** |
 | Minimum **2** per team | Extra time: **2 × 5 min** | Registered owners included |
@@ -39,139 +36,79 @@
 | 🗓️ **MATCH NOTICE** | 🥅 **TIEBREAKER** | 📋 **CONTRACTS** |
 | :---: | :---: | :---: |
 | **24 hours** | **4 penalties each** | **10 seasons** |
-| Forced reschedule: **12 h** | Then sudden death | Maximum permitted |
-
-</div>
+| Forced rescheduling: **12 h** | Then sudden death | Maximum duration |
 
 > [!NOTE]
-> **2 TF = 1 Robux** is the federation's stated Transfer Funds conversion rate. Only officially authorized, Roblox-compliant purchases are recognized.
+> **Transfer Funds:** 2 TF = 1 Robux. Purchases may only be made through official BFF channels and methods permitted by Roblox.
 
-## Documentation library
+## 📖 Documentation library
 
-Every chapter is a separate Markdown page, so you can jump directly to the rule you need without scrolling through one long document.
+All BFF regulations are organized into nine chapters. Select a chapter to open its complete rulebook page.
 
-|  | Chapter | What you'll find |
+| # | Chapter | What you'll find |
 | :---: | :--- | :--- |
-| **01** | **[General Regulations](docs/01-general.md)** | Conduct, fair competition and federation standards |
-| **02** | **[Match Regulations](docs/02-matches.md)** | 4v4, 20-minute matches, extra time, forfeits and stadiums |
-| **03** | **[Scheduling & Rescheduling](docs/03-scheduling.md)** | 24-hour notice, forced rescheduling and attendance |
-| **04** | **[Clubs & Ownership](docs/04-clubs.md)** | Owners playing, club obligations and the 30-day requirement |
-| **05** | **[Players, Contracts & Transfers](docs/05-players-transfers.md)** | Registration, 15-player squads, 10-season contracts and TF |
-| **06** | **[Kits & Equipment](docs/06-kits.md)** | Kit design, away-kit conflicts and captain armbands |
-| **07** | **[Refereeing Standards](docs/07-referees.md)** | Match control, stadium inspection and referee decisions |
-| **08** | **[Staff & Investigations](docs/08-staff.md)** | Division Staff authority and reviewing official results |
-| **09** | **[Final Provisions](docs/09-final.md)** | Scope, interpretation and rulebook amendments |
+| **01** | **[General Regulations](docs/01-general.md)** | Conduct, competition integrity and federation standards |
+| **02** | **[Match Regulations](docs/02-matches.md)** | 4v4 format, match time, extra time and forfeits |
+| **03** | **[Scheduling & Rescheduling](docs/03-scheduling.md)** | 24-hour requirements, forced rescheduling and attendance |
+| **04** | **[Clubs & Ownership](docs/04-clubs.md)** | Owners playing for their clubs and the 30-day requirement |
+| **05** | **[Players, Contracts & Transfers](docs/05-players-transfers.md)** | Registration, the 15-player limit, contracts and TF |
+| **06** | **[Kits & Equipment](docs/06-kits.md)** | Kit regulations, away-kit changes and captain armbands |
+| **07** | **[Refereeing Standards](docs/07-referees.md)** | Stadium checks, refereeing decisions and match reports |
+| **08** | **[Staff & Investigations](docs/08-staff.md)** | Division Staff authority and result investigations |
+| **09** | **[Final Provisions](docs/09-final.md)** | Rule interpretation and official updates |
 
 ---
 
-## Important match rules
+## 🏆 Important match rules
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| **Minimum players** | **Extra time and penalties** |
+| :--- | :--- |
+| An official match requires **at least 2 eligible players per team**. A team that does not meet this minimum loses **3–0**. [Match regulations](docs/02-matches.md) | A tied knockout match continues with **2 × 5 minutes** of extra time, then **4 penalties each** and sudden death if necessary. [Match regulations](docs/02-matches.md) |
+| **Club owners** | **Kits and captains** |
+| Owners may play for their own clubs **if registered**. Voluntary resignation requires **30 days** in office. [Club regulations](docs/04-clubs.md) | The **away team changes its kit** if colors clash. Captains may wear an identifying armband. [Kit regulations](docs/06-kits.md) |
 
-### 🟢 Minimum players
-
-An official match needs **at least two eligible players on each team**.
-
-**Failure to meet the minimum: 3–0 forfeit.**
-
-[Read match rules →](docs/02-matches.md)
-
-</td>
-<td width="50%" valign="top">
-
-### ⏱️ Extra time
-
-When a winner is required, a draw after 20 minutes leads to **two 5-minute extra periods**.
-
-If still tied: **four penalties per side**, then sudden death.
-
-[Read match rules →](docs/02-matches.md)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🧑‍💼 Club owners
-
-Owners may play for the clubs they own **if registered**.
-
-An owner must complete **30 days** before voluntarily leaving the position.
-
-[Read club rules →](docs/04-clubs.md)
-
-</td>
-<td valign="top">
-
-### 👕 Kits & captains
-
-When kits clash, **the away team changes**.
-
-Captains may wear an identifying armband.
-
-[Read kit rules →](docs/06-kits.md)
-
-</td>
-</tr>
-</table>
-
-## Federation authority
+## 🛡️ Federation authority
 
 > [!TIP]
-> **Division Staff or any higher-ranking authorized official may investigate match results**, scheduling, eligibility, transfers, referee conduct and other competition-related matters. **League Staff** reviews club-lock cases, contracts and ownership matters.
+> **Division Staff or higher-ranking authorized officials** may investigate match results, player eligibility, scheduling, transfers, referee conduct and other federation matters. The **League Staff Department** reviews club locks, contract disputes and ownership changes.
 
-**Referee mistakes alone do not justify a replay.** Stadium suitability is decided by the appointed referee, and teams may warm up for up to **one hour** before kickoff.
+**There are no match replays for referee mistakes.** The appointed referee decides whether a stadium is suitable for play. Both teams may warm up for up to **one hour** before kickoff.
 
-**[Full referee guidelines](docs/07-referees.md)** · **[Investigation authority](docs/08-staff.md)**
+**[Referee guidelines](docs/07-referees.md)** · **[Staff investigations](docs/08-staff.md)**
 
 ---
 
-## Reading & updates
+## 📌 Reading and updates
 
 <details>
-<summary><strong>Who must follow the BFF rulebook?</strong></summary>
+<summary><strong>Who must follow these regulations?</strong></summary>
 
-<br />
-
-All registered players, club owners, managers, captains, match officials and federation staff participating in BFF activities.
+All registered players, club owners, managers, captains, match officials and federation staff taking part in official BFF activities.
 
 </details>
 
 <details>
-<summary><strong>Which version is official?</strong></summary>
+<summary><strong>Which rulebook version is official?</strong></summary>
 
-<br />
-
-The latest published edition in this repository, subject to any official BFF Management notice about when amendments take effect.
+The latest published edition in this repository, subject to any official BFF Management notice announcing the effective date of a change.
 
 </details>
 
 <details>
-<summary><strong>Where can I find the full requirements for a specific rule?</strong></summary>
+<summary><strong>Where can I read the full rules?</strong></summary>
 
-<br />
-
-Select the relevant chapter in the [Documentation Library](#documentation-library). Each chapter links back to this homepage and to related subjects.
+Open a chapter in the [Documentation library](#-documentation-library). Each chapter links back to the homepage and to related regulations.
 
 </details>
 
 ---
 
-<div align="center">
-
-### BALKAN FOOTBALL FEDERATION
-
-**INTEGRITY &nbsp; • &nbsp; FAIR PLAY &nbsp; • &nbsp; COMPETITION**
-
-<sub>OFFICIAL RULES & REGULATIONS · 2026 EDITION</sub>
-
-<br />
-<br />
-
-**[↑ Return to the top](#bff--official-documentation)**
-
-<sub>© 2026 Balkan Football Federation. All rights reserved.</sub>
-
-</div>
+<h3 align="center">BALKAN FOOTBALL FEDERATION</h3>
+<p align="center">
+  <strong>INTEGRITY · FAIR PLAY · COMPETITION</strong><br>
+  <sub>OFFICIAL RULES &amp; REGULATIONS · 2026 EDITION</sub>
+</p>
+<p align="center">
+  <a href="#bff--official-documentation"><strong>↑ Back to top</strong></a><br>
+  <sub>© 2026 Balkan Football Federation. All rights reserved.</sub>
+</p>
