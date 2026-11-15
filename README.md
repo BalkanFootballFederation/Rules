@@ -1,428 +1,349 @@
-# BFF | Balkan Football Federation
-## Official Rules & Regulations
+<div align="center">
 
-**Welcome to the Balkan Football Federation (BFF).**
+<img src="./assets/bff-rulebook-cover.svg" alt="BFF — Balkan Football Federation | Official Rules and Regulations" width="100%" />
 
-This document establishes the official rules, regulations, and standards governing all competitions organized by the Balkan Football Federation.
+# BFF Official Rulebook
 
-All players, club owners, managers, referees, and staff members are required to understand and follow these regulations.
+**Balkan Football Federation · Rules & Regulations**
 
-Participation in any official BFF competition constitutes acceptance of this rulebook.
+<img src="https://img.shields.io/badge/STATUS-OFFICIAL-2A9D8F?style=for-the-badge" alt="Official rulebook" />
+<img src="https://img.shields.io/badge/FORMAT-4v4-253650?style=for-the-badge" alt="4v4 football" />
+<img src="https://img.shields.io/badge/EDITION-2026-253650?style=for-the-badge" alt="2026 edition" />
 
-**The BFF Management reserves the right to amend these regulations whenever necessary.**
+*The governing regulations for players, club owners, referees, and staff across BFF competitions.*
 
----
-
-# 1. General Regulations
-
-### 1.1 | General Conduct
-
-All BFF members must maintain a respectful, professional, and sportsmanlike attitude toward other participants.
-
-Racism, discrimination, harassment, threats, bullying, and any form of abusive behavior are strictly prohibited.
-
-Cheating, exploiting, unauthorized modifications, and intentionally abusing game mechanics are not permitted.
-
-All participants must comply with the Roblox Terms of Use and Community Standards.
-
-### 1.2 | League Authority
-
-The **Division Staff Department and any higher-ranking department** have the authority to investigate matches, results, player registrations, club operations, disciplinary incidents, and any other matters affecting the federation.
-
-Authorized staff members may request evidence, question involved parties, examine match recordings, and take appropriate administrative action.
-
-Staff decisions must be based on the available evidence and applicable regulations.
-
-### 1.3 | Manipulation & Misconduct
-
-Match fixing, falsifying results, manipulating player registrations, providing false evidence, and attempting to influence league officials are strictly prohibited.
-
-Members involved in such activities may face suspensions, removal from competitions, or permanent exclusion from BFF.
+</div>
 
 ---
 
-# 2. Match Regulations
+> [!IMPORTANT]
+> **Participation means acceptance of these regulations.** Every registered member is expected to understand and follow the rulebook. BFF Management may amend the regulations through official federation channels.
 
-### 2.1 | Match Format
+## At a glance
 
-All official BFF matches are played in a **4v4 format**, with a maximum of four players representing each team on the pitch.
+| ⚽ Match rules | ⏱️ Time & scheduling | 🏟️ Clubs & contracts |
+| :--- | :--- | :--- |
+| **4v4** match format | **20 minutes** regular time | **15 players** maximum per club |
+| **2 players** minimum per team | **2 × 5 minutes** extra time when a winner is required | **10 seasons** maximum contract |
+| **3–0** forfeit if minimum is not met | **4 penalties** per team, then sudden death | **30 days** minimum as club owner |
+| **No replays** for referee mistakes | **24 hours** for scheduling and normal rescheduling | **2 TF = 1 Robux** |
+| Referee approves stadium conditions | **12 hours** minimum notice for forced rescheduling | Owners may play **if registered** |
+| **1 hour** maximum warm-up | Match changes require approval | Club locks require **League Staff** review |
 
-Each team must have at least **two eligible players** to participate in an official match.
+> [!WARNING]
+> **Doxxing carries an immediate permanent BFF ban.** There is no warning requirement. Division Staff and higher-ranking authorized officials may investigate match results, misconduct, eligibility, and other federation matters.
 
-If a team cannot provide the required minimum of two players, the match will be awarded as a **3-0 victory** to the opposing team.
+## Contents
 
-If both teams fail to meet the minimum requirement, the Division Staff Department will determine the appropriate outcome.
-
-### 2.2 | Match Duration
-
-The regular duration of an official BFF match is **20 minutes**.
-
-If a match ends in a draw and the competition requires a winner, the match will proceed to extra time consisting of **two periods of five minutes each**.
-
-If the score remains tied after extra time, a penalty shootout will take place.
-
-Each team will initially take **four penalties**. If the score remains tied, additional penalties will be taken under sudden-death rules until a winner is determined.
-
-League matches that permit draws do not require extra time or penalties unless specified by the competition regulations.
-
-### 2.3 | Minimum Players & Forfeits
-
-Teams must maintain at least two eligible players throughout the match.
-
-If a team falls below two players and cannot restore the minimum requirement, the referee must stop the match.
-
-The affected team will receive a **3-0 forfeit defeat**, unless the Division Staff Department determines that exceptional circumstances require further investigation.
-
-### 2.4 | Referee Authority
-
-The referee is responsible for controlling the match and enforcing the applicable regulations.
-
-All participants must respect the referee's decisions.
-
-The referee may issue warnings, yellow cards, red cards, or other match-related sanctions when appropriate.
-
-**Referee decisions cannot be used as grounds for requesting a match replay.**
-
-### 2.5 | Referee Mistakes
-
-BFF does not allow match replays solely because of referee mistakes, incorrect decisions, missed fouls, or controversial calls.
-
-However, the Division Staff Department or higher authorities may investigate refereeing misconduct, match manipulation, or significant violations of league regulations.
-
-An investigation does not automatically invalidate a match result.
-
-### 2.6 | Stadium Conditions
-
-Before kickoff, the referee must determine whether the stadium is suitable for an official match.
-
-The stadium must provide appropriate playing conditions without major technical issues or unfair advantages.
-
-The referee may delay or prevent kickoff if the stadium is unsuitable.
-
-The referee's assessment must be respected by both teams.
-
-### 2.7 | Warm-Up Period
-
-Teams are permitted a maximum of **one hour for warm-ups** before an official match.
-
-Both teams are responsible for being prepared at the scheduled kickoff time.
-
-The warm-up period does not authorize teams to delay an agreed kickoff without approval.
+| Section | What it covers |
+| :--- | :--- |
+| [01 · General Regulations](#1-general-regulations) | Conduct, authority, integrity |
+| [02 · Match Regulations](#2-match-regulations) | Format, match time, referees, stadiums |
+| [03 · Scheduling & Rescheduling](#3-match-scheduling--rescheduling) | 24-hour and 12-hour requirements |
+| [04 · Club Regulations](#4-club-regulations) | Ownership, eligibility, resignations |
+| [05 · Registration & Transfers](#5-squad-registration--transfers) | Squad limits, contracts, TF, locks |
+| [06 · Kits & Equipment](#6-kits--equipment) | Kit conflicts, captain armbands |
+| [07 · Discipline & Suspensions](#7-suspensions--disciplinary-actions) | Prohibited conduct, bans, appeals |
+| [08 · Referee Regulations](#8-referee-regulations) | Referee responsibilities and reports |
+| [09 · Staff & Investigations](#9-staff-authority--investigations) | Division Staff powers and reviews |
+| [10 · Final Provisions](#10-final-provisions) | Application and future changes |
 
 ---
 
-# 3. Match Scheduling & Rescheduling
+## 1. General Regulations
 
-### 3.1 | Match Scheduling
+### 1.1 · General Conduct
 
-All official matches must be scheduled at least **24 hours before kickoff**.
+Every BFF member must treat others with respect and maintain professional, sportsmanlike conduct. Racism, discrimination, harassment, threats, bullying, and abusive behavior are prohibited.
 
-Both teams must be properly informed of the match date, time, and relevant details.
+Cheating, exploiting, using unauthorized modifications, and intentionally abusing game mechanics are not permitted. All participants must follow the [Roblox Community Standards](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards) and applicable platform terms.
 
-Club representatives are responsible for ensuring that their players are available.
+### 1.2 · League Authority
 
-### 3.2 | Normal Rescheduling
+**Division Staff and higher-ranking authorized officials** may investigate matches, results, registrations, club activities, disciplinary incidents, and other matters affecting BFF.
 
-A normal rescheduling request must be submitted at least **24 hours before the original kickoff time**.
+Authorized staff may request relevant evidence, hear from involved parties, review match recordings, and take or recommend appropriate action. Decisions must be grounded in the evidence and federation regulations.
 
-The request must be communicated to the appropriate league officials and must receive authorization.
+### 1.3 · Manipulation & Misconduct
 
-Clubs cannot unilaterally change official match dates or times.
+Match fixing, falsifying results, manipulating registrations, submitting false evidence, and attempting to improperly influence league officials are prohibited.
 
-### 3.3 | Forced Rescheduling
+Confirmed misconduct may result in suspensions, removal from a competition, or permanent exclusion from BFF.
 
-Forced rescheduling is permitted only under exceptional circumstances.
-
-The minimum notice for a forced reschedule is **12 hours before the original kickoff time**.
-
-All forced rescheduling requests must be reviewed and approved by the Division Staff Department or higher authorities.
-
-Requests submitted outside the permitted timeframe may be rejected.
-
-### 3.4 | Failure to Attend
-
-Teams are responsible for attending their scheduled matches with the required minimum number of players.
-
-Failure to provide at least two eligible players will result in a **3-0 forfeit defeat**.
-
-Repeated unjustified absences may lead to additional sanctions.
+[↑ Back to contents](#contents)
 
 ---
 
-# 4. Club Regulations
+## 2. Match Regulations
 
-### 4.1 | Club Ownership
+### 2.1 · Match Format
 
-Every official BFF club must have a recognized owner responsible for its management and representation.
+BFF official matches use a **4v4 format**. A team may field no more than four players on the pitch and must have at least **two eligible players** to participate.
 
-Club owners must comply with all federation regulations and cooperate with authorized staff members.
+If a team cannot meet the two-player minimum, the opposing team receives a **3–0 forfeit victory**. If neither side meets the minimum, the Division Staff Department will determine the appropriate outcome.
 
-Club owners are responsible for maintaining accurate squad information and ensuring their club operates appropriately.
+### 2.2 · Match Duration
 
-### 4.2 | Owners Playing for Their Clubs
+| Stage | Regulation |
+| :--- | :--- |
+| Regular time | **20 minutes** |
+| Extra time | **Two periods of 5 minutes**, when a winner is required |
+| Initial shootout | **4 penalties per team** |
+| Still tied after four each | **Sudden-death penalties** until a winner is determined |
 
-Club owners are allowed to represent their own clubs as players.
+Extra time and penalties apply when a competition requires a winner. League fixtures that permit draws end after regular time unless competition rules specify otherwise.
 
-However, **owners must be officially registered as players** before participating in any competitive match.
+### 2.3 · Minimum Players & Forfeits
 
-Being a club owner does not provide additional playing privileges or immunity from disciplinary sanctions.
+Teams must maintain at least two eligible players throughout the match. If a team falls below this minimum and cannot restore it, the referee must stop play.
 
-### 4.3 | Ownership Resignation
+The default outcome is a **3–0 defeat** for the team failing the requirement. The Division Staff Department may investigate exceptional circumstances before confirming the result.
 
-A club owner must remain in their position for at least **30 days** before voluntarily resigning.
+### 2.4 · Referee Authority
 
-Resignation requests submitted before completing 30 days will not normally be accepted.
+An authorized referee controls the match, enforces the rules, and may issue match-related warnings, yellow cards, and red cards. Players and team officials must respect referee decisions.
 
-Once the minimum period has passed, the owner may formally request resignation.
+### 2.5 · Referee Mistakes
 
-The League Staff Department must review and authorize ownership changes.
+> [!NOTE]
+> **Referee mistakes do not justify a replay.** Incorrect calls, missed fouls, or controversial decisions do not by themselves invalidate a match.
 
-In exceptional circumstances, BFF Management may remove or replace a club owner before the minimum period has elapsed.
+Division Staff or higher authorities may still investigate referee misconduct, match manipulation, or serious regulatory violations. Starting an investigation does not automatically change the result.
 
-### 4.4 | Club Responsibilities
+### 2.6 · Stadium Conditions
 
-Clubs must maintain appropriate management, follow official competition schedules, and ensure their players comply with BFF regulations.
+The referee must assess the stadium before kickoff and decide whether it is suitable for an official fixture. Major technical problems, unsuitable playing conditions, or an unfair advantage may justify delaying or preventing kickoff.
 
-Club owners may face administrative sanctions for deliberately providing incorrect information or abusing their authority.
+Both clubs must comply with the referee's stadium decision.
 
----
+### 2.7 · Warm-Up Period
 
-# 5. Squad Registration & Transfers
+Teams may warm up for a maximum of **one hour** before the match. Clubs must nevertheless be ready at the agreed kickoff time. Warm-ups do not authorize an unapproved delay.
 
-### 5.1 | Maximum Squad Size
-
-Each club may register a maximum of **15 players**.
-
-The squad limit includes all officially registered players, including owners who are registered to play.
-
-Clubs are prohibited from registering additional players once the maximum squad size has been reached.
-
-Players must be removed or transferred before new registrations can be approved.
-
-### 5.2 | Player Registration
-
-Every player must be officially registered with a club before representing it in competitive matches.
-
-Unregistered players are not permitted to participate.
-
-Clubs found using unregistered or otherwise ineligible players may receive disciplinary sanctions, including match forfeiture.
-
-### 5.3 | Player Contracts
-
-Player contracts may last for a maximum of **10 seasons**.
-
-Contracts exceeding this limit are invalid unless the regulations are formally amended.
-
-Clubs and players must respect officially recognized contract agreements.
-
-Contract disputes must be reported to the League Staff Department.
-
-### 5.4 | Club Locks
-
-Any situation involving a club lock must be reviewed by the **League Staff Department**.
-
-Club locks cannot be imposed or maintained in a manner that violates federation regulations.
-
-The League Staff Department may investigate the circumstances and determine whether the restriction is justified.
-
-### 5.5 | Transfer Funds (TF)
-
-BFF uses **TF** for its transfer-related system.
-
-The official conversion rate is:
-
-**2 TF = 1 Robux**
-
-TF may be purchased through official BFF systems using payment methods permitted by Roblox.
-
-Only purchases confirmed through authorized systems will be recognized.
-
-Any attempt to falsify TF balances, manipulate transactions, or exploit the transfer system is strictly prohibited.
-
-### 5.6 | Transfers
-
-All transfers must comply with official BFF registration and contract regulations.
-
-Transfers cannot cause a club to exceed the maximum squad limit of 15 players.
-
-Any suspected fraudulent transfer may be investigated by the Division Staff Department or higher authorities.
+[↑ Back to contents](#contents)
 
 ---
 
-# 6. Kits & Equipment
+## 3. Match Scheduling & Rescheduling
 
-### 6.1 | Kit Requirements
+### 3.1 · Match Scheduling
 
-All participating clubs must use appropriate and recognizable football kits.
+Every official fixture must be scheduled at least **24 hours before kickoff**. Both teams must be informed of the date and time, and club representatives must communicate the details to their players.
 
-Kits must not contain offensive, racist, discriminatory, inappropriate, or otherwise prohibited content.
+### 3.2 · Normal Rescheduling
 
-The federation reserves the right to reject any kit that violates these requirements.
+A normal rescheduling request must be made at least **24 hours before the original kickoff**. The change requires authorization from the appropriate league officials. Neither club may unilaterally change a confirmed fixture.
 
-### 6.2 | Kit Conflicts
+### 3.3 · Forced Rescheduling
 
-The away team must wear a kit that is clearly distinguishable from the home team's kit.
+Forced rescheduling is reserved for exceptional circumstances and requires a valid reason. The request must be submitted at least **12 hours before the original kickoff** and approved by **Division Staff or higher-ranking officials**.
 
-If both teams use identical or confusingly similar kits, **the away team must change its kit**.
+Requests outside this notice period may be refused.
 
-The referee may delay kickoff until the issue is resolved.
+### 3.4 · Failure to Attend
 
-### 6.3 | Captain Identification
+Clubs must arrive with at least two eligible players. Failure to meet the minimum results in a **3–0 forfeit defeat**. Repeated unjustified absences may lead to additional administrative sanctions.
 
-Each team may appoint an official captain.
+| Request | Minimum advance notice | Approval |
+| :--- | :--- | :--- |
+| Schedule a match | **24 hours** | Official competition scheduling |
+| Normal reschedule | **24 hours** | Appropriate league officials |
+| Forced reschedule | **12 hours** | Division Staff or higher |
 
-Captains are permitted to wear an identifying armband to distinguish themselves from other players.
-
-The armband must comply with the same content restrictions applicable to official kits.
-
-Captains must communicate respectfully with match officials.
-
----
-
-# 7. Suspensions & Disciplinary Actions
-
-### 7.1 | General Disciplinary Policy
-
-BFF maintains strict disciplinary standards to protect the integrity of its competitions and the safety of its members.
-
-Violations may result in official warnings, temporary suspensions, permanent suspensions, or removal from the federation.
-
-Sanctions will be determined according to the nature, seriousness, and circumstances of the violation.
-
-### 7.2 | Racism & Discrimination
-
-Racism, discriminatory remarks, hate speech, and targeted harassment are strictly prohibited.
-
-Confirmed violations may result in immediate suspension.
-
-Serious or repeated incidents may result in permanent exclusion from BFF.
-
-### 7.3 | Doxxing
-
-**Doxxing is strictly prohibited and carries an immediate permanent ban from BFF.**
-
-Publishing, exposing, or threatening to disclose another member's private personal information without authorization is forbidden.
-
-No prior warnings are required for a confirmed doxxing violation.
-
-Serious incidents may also be reported to Roblox.
-
-### 7.4 | Cheating & Exploiting
-
-Cheating, exploiting, manipulating game mechanics, and using unauthorized software to gain an unfair advantage are prohibited.
-
-Confirmed violations may result in suspensions, invalidation of improperly obtained results, or permanent exclusion.
-
-### 7.5 | Suspension Restrictions
-
-Suspended players are not permitted to participate in official BFF matches for the duration of their suspension.
-
-Suspended staff members may not exercise their official responsibilities.
-
-Using alternative accounts or other methods to bypass an active suspension is prohibited.
-
-### 7.6 | Disciplinary Appeals
-
-Members may appeal disciplinary decisions through the appropriate official channels.
-
-Appeals must provide a reasonable explanation and any available supporting evidence.
-
-The relevant department will review the appeal before issuing its decision.
-
-An active suspension remains enforceable during the appeal process unless an authorized official decides otherwise.
+[↑ Back to contents](#contents)
 
 ---
 
-# 8. Referee Regulations
+## 4. Club Regulations
 
-### 8.1 | Referee Responsibilities
+### 4.1 · Club Ownership
 
-Referees must remain impartial and enforce the regulations consistently.
+Every club must have a recognized owner responsible for managing the club, maintaining accurate squad information, and cooperating with league officials.
 
-They are responsible for verifying player numbers, checking kits, evaluating stadium conditions, controlling matches, and reporting incidents.
+### 4.2 · Owners Playing for Their Clubs
 
-Referees must not intentionally favor any participant or club.
+A club owner **may play for the club they own**, but only after completing official player registration. Owners remain subject to the same eligibility, squad limit, and disciplinary rules as other players.
 
-### 8.2 | Match Reports
+### 4.3 · Ownership Resignation
 
-Referees are responsible for submitting accurate match reports when required by the federation.
+An owner must hold the position for at least **30 days** before voluntarily resigning. Once the period has passed, the owner may submit a formal resignation.
 
-Reports must reflect the actual match result and relevant disciplinary incidents.
+Ownership changes and transfers require **League Staff Department** review and authorization. BFF Management may remove or replace an owner earlier in exceptional circumstances, including serious misconduct.
 
-Deliberately falsifying match information is strictly prohibited.
+### 4.4 · Club Responsibilities
 
-### 8.3 | Referee Misconduct
+Clubs must follow schedules, maintain eligible squads, and ensure members comply with the rulebook. Deliberate misrepresentation or abuse of ownership authority may result in sanctions.
 
-Referees suspected of serious misconduct may be investigated by the Division Staff Department or higher authorities.
-
-Investigations may result in warnings, temporary removal from refereeing duties, or permanent dismissal.
-
-**Referee mistakes alone do not justify a match replay.**
+[↑ Back to contents](#contents)
 
 ---
 
-# 9. Staff Authority & Investigations
+## 5. Squad Registration & Transfers
 
-### 9.1 | Division Staff Authority
+### 5.1 · Maximum Squad Size
 
-**Division Staff members and all higher-ranking authorized officials have the authority to investigate any matter involving BFF competitions and operations.**
+> [!IMPORTANT]
+> **A club may register no more than 15 players.** Registered owners who also play count toward this limit.
 
-This includes match results, forfeits, scheduling disputes, player eligibility, transfers, club activities, referee conduct, and alleged rule violations.
+A club must release or transfer players before registering replacements if the full 15-player allocation is occupied.
 
-Division Staff may request relevant evidence, review available information, and refer cases for disciplinary action.
+### 5.2 · Player Registration
 
-### 9.2 | Match Result Investigations
+Players must be officially registered before participating in competitive matches. Fielding unregistered or otherwise ineligible players is prohibited and may result in sanctions, including forfeiture.
 
-Division Staff or higher-ranking officials may investigate results when there is reasonable suspicion of match manipulation, unauthorized players, false reports, or violations of federation regulations.
+### 5.3 · Player Contracts
 
-Confirmed administrative violations may result in corrections to official records, forfeits, or other appropriate sanctions.
+The maximum recognized contract duration is **10 seasons**. Longer agreements are invalid unless the federation formally amends the rule. Players and clubs must honor recognized agreements and refer disputes to the **League Staff Department**.
 
-Normal refereeing errors are not valid grounds for replaying matches.
+### 5.4 · Club Locks
 
-### 9.3 | League Staff Department
+Any club-lock case must be reviewed by the **League Staff Department**. Locks must comply with the rules and may not be used to unfairly restrict or punish players. The department will decide whether a disputed lock is justified.
 
-The League Staff Department is responsible for overseeing league-related administrative matters.
+### 5.5 · Transfer Funds (TF)
 
-Its responsibilities include reviewing club locks, resolving contractual disputes, evaluating ownership changes, and ensuring compliance with federation regulations.
+**TF** is the BFF transfer-related unit. Its stated conversion rate is:
 
-The department may cooperate with Division Staff and higher-ranking officials when necessary.
+<div align="center">
 
-### 9.4 | Abuse of Authority
+### 2 TF = 1 Robux
 
-All staff members must exercise their permissions responsibly.
+</div>
 
-Using staff privileges to benefit specific clubs, manipulate results, intimidate members, or interfere unfairly with competitions is strictly prohibited.
+TF may be purchased only through officially authorized BFF systems and methods allowed by Roblox. Only confirmed transactions are recognized. Falsified balances, fraudulent transactions, and exploitation are prohibited.
 
-Confirmed staff misconduct may result in disciplinary action or removal from the staff team.
+### 5.6 · Transfers
 
----
+All transfers must respect registration, squad size, and contract rules. A transfer cannot take a club above **15 registered players**. Suspected fraudulent transfers may be investigated by Division Staff or higher officials.
 
-# 10. Final Provisions
-
-### 10.1 | Acceptance of Regulations
-
-Every player, club owner, manager, referee, and staff member is required to comply with the official BFF rulebook.
-
-Failure to read these regulations does not exempt anyone from their application.
-
-### 10.2 | Interpretation of Rules
-
-Situations not explicitly covered by this rulebook may be reviewed by the relevant authorized department.
-
-Decisions must be reasonable, consistent, and based on the available evidence.
-
-### 10.3 | Rulebook Amendments
-
-BFF Management reserves the right to modify, introduce, or remove regulations when necessary.
-
-Any changes must be communicated through official federation channels.
-
-The latest published version of this rulebook will be considered the applicable version.
+[↑ Back to contents](#contents)
 
 ---
 
-## Balkan Football Federation
+## 6. Kits & Equipment
 
-**Official Rules & Regulations**
+### 6.1 · Kit Requirements
 
-*All rights reserved. © 2026 Balkan Football Federation.*
+Teams must use appropriate, recognizable football kits. Offensive, racist, discriminatory, or otherwise prohibited content may not appear on kits. BFF may reject kits that fail these requirements.
+
+### 6.2 · Kit Conflicts
+
+The away team's kit must be clearly distinguishable from the home team's kit. If kits are identical or confusingly similar, **the away team must change**. The referee may delay kickoff until the problem is resolved.
+
+### 6.3 · Captain Identification
+
+Each team may designate a captain. Captains may wear an identifying armband, provided that it complies with kit standards. Captains are expected to communicate respectfully with match officials and are not exempt from sanctions.
+
+[↑ Back to contents](#contents)
+
+---
+
+## 7. Suspensions & Disciplinary Actions
+
+### 7.1 · General Disciplinary Policy
+
+BFF may issue official warnings, temporary suspensions, permanent bans, or removal from federation activities according to the nature and seriousness of a confirmed violation.
+
+### 7.2 · Racism & Discrimination
+
+Racism, discriminatory statements, hate speech, and targeted harassment are prohibited. Confirmed violations may result in immediate suspension; serious or repeated misconduct may lead to permanent exclusion.
+
+### 7.3 · Doxxing
+
+> [!CAUTION]
+> **Zero tolerance: confirmed doxxing results in an immediate permanent ban from BFF.** No previous warnings are required.
+
+Publishing or maliciously exposing another person's private information, or threatening to do so, is prohibited. Serious cases may also be reported to Roblox through official reporting channels.
+
+### 7.4 · Cheating & Exploiting
+
+Cheating, exploiting game mechanics, or using unauthorized software to gain an unfair advantage is prohibited. Sanctions may include suspension, correction of improperly obtained results, or permanent exclusion.
+
+### 7.5 · Suspension Restrictions
+
+Suspended players cannot take part in official matches during their suspension. Suspended staff cannot perform official duties. Circumventing a suspension through alternative accounts is prohibited and may lead to further sanctions.
+
+### 7.6 · Disciplinary Appeals
+
+Members may appeal through the official BFF channels, providing a clear explanation and available evidence. Authorized officials will review the case.
+
+An active suspension remains in force during the appeal unless an authorized official decides otherwise.
+
+[↑ Back to contents](#contents)
+
+---
+
+## 8. Referee Regulations
+
+### 8.1 · Referee Responsibilities
+
+Referees must be impartial and apply the regulations consistently. They must verify player eligibility and numbers, inspect kits and stadium conditions, control matches, and report serious incidents.
+
+### 8.2 · Match Reports
+
+When required, referees must submit accurate match reports reflecting the final score and relevant disciplinary incidents. Deliberately falsifying a report is prohibited.
+
+### 8.3 · Referee Misconduct
+
+Division Staff or higher-ranking officials may investigate serious referee misconduct. Sanctions may include warnings, temporary removal from duties, or permanent dismissal.
+
+**A refereeing mistake, on its own, does not authorize a match replay.**
+
+[↑ Back to contents](#contents)
+
+---
+
+## 9. Staff Authority & Investigations
+
+### 9.1 · Division Staff Authority
+
+**Division Staff and every higher-ranking authorized level** may investigate any matter affecting BFF competitions and operations.
+
+This includes match results, forfeits, scheduling, registrations, player eligibility, transfers, club conduct, refereeing, and other alleged violations. Officials may request evidence and recommend or take actions within their authority.
+
+### 9.2 · Match Result Investigations
+
+Result investigations may be initiated where there is reasonable suspicion of match manipulation, ineligible players, falsified reporting, or a significant breach of regulations.
+
+Confirmed administrative violations may result in corrected records, forfeits, or disciplinary action. **Ordinary referee errors do not justify replays.**
+
+### 9.3 · League Staff Department
+
+The League Staff Department oversees league administration, including club locks, contract disputes, ownership changes, and regulatory compliance. It may coordinate with Division Staff and higher-ranking officials.
+
+### 9.4 · Abuse of Authority
+
+Staff must use their powers responsibly and impartially. Intentionally favoring clubs, manipulating outcomes, intimidating members, or interfering improperly with competitions is prohibited and may lead to removal from staff duties.
+
+[↑ Back to contents](#contents)
+
+---
+
+## 10. Final Provisions
+
+### 10.1 · Acceptance of Regulations
+
+The rulebook applies to every player, owner, manager, referee, and staff member. Not having read the rules does not excuse noncompliance.
+
+### 10.2 · Interpretation of Rules
+
+Matters not expressly addressed here may be reviewed by the appropriate authorized department. Decisions must be reasonable, consistent, and supported by available evidence.
+
+### 10.3 · Rulebook Amendments
+
+BFF Management may modify, add, or remove rules when necessary. Changes must be announced through official channels. The latest published version is the applicable rulebook.
+
+[↑ Back to contents](#contents)
+
+---
+
+<div align="center">
+
+### BALKAN FOOTBALL FEDERATION
+
+**Integrity · Competition · Respect**
+
+<sub>Official Rules & Regulations · 2026 Edition</sub>
+
+<sub>© 2026 Balkan Football Federation. All rights reserved.</sub>
+
+</div>
