@@ -425,6 +425,4 @@ The latest published version of this rulebook will be considered the applicable 
 
 **Official Rules & Regulations**
 
-**BFF Management | Division Staff Department | League Staff Department**
-
 *All rights reserved. © 2026 Balkan Football Federation.*
