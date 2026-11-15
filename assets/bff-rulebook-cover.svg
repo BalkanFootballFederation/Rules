@@ -1,46 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="500" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
 <title id="title">BFF — Balkan Football Federation</title>
-<desc id="desc">Official documentation for the Balkan Football Federation. Dark midnight football-themed brand artwork with sea-green and gold accents.</desc>
+<desc id="desc">Official Rules and Regulations banner for the Balkan Football Federation.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111F"/><stop offset=".53" stop-color="#12253A"/><stop offset="1" stop-color="#0E1830"/></linearGradient>
-  <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#52DACD"/><stop offset="1" stop-color="#A2F1D3"/></linearGradient>
-  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B78334"/><stop offset="1" stop-color="#F7D58D"/></linearGradient>
-  <radialGradient id="halo"><stop stop-color="#5CD9D5" stop-opacity=".25"/><stop offset="1" stop-color="#5CD9D5" stop-opacity="0"/></radialGradient>
-  <pattern id="grid" width="57" height="57" patternUnits="userSpaceOnUse"><path d="M57 0H0V57" fill="none" stroke="#D8F7FF" stroke-opacity=".035"/></pattern>
-  <clipPath id="rounded"><rect width="1440" height="500" rx="32"/></clipPath>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1224"/><stop offset=".55" stop-color="#142442"/><stop offset="1" stop-color="#101827"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64D8CB"/><stop offset="1" stop-color="#9AE6B4"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#3FA9AF" stop-opacity=".22"/><stop offset="1" stop-color="#3FA9AF" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#A8DFF0" stroke-opacity=".05" stroke-width="1"/></pattern>
 </defs>
-<g clip-path="url(#rounded)">
-<rect width="1440" height="500" fill="url(#bg)"/>
-<rect width="1440" height="500" fill="url(#grid)"/>
-<path d="M810 0H1440V500H1030Z" fill="#93F9EB" opacity=".028"/>
-<path d="M1130 0H1440V500H1340Z" fill="#FFF" opacity=".03"/>
-<circle cx="1150" cy="256" r="320" fill="url(#halo)"/>
-<rect x="70" y="63" width="69" height="9" rx="4.5" fill="url(#aqua)"/>
-<text x="156" y="74" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#92C9CE" font-weight="700" letter-spacing="5">OFFICIAL FEDERATION DOCUMENTATION</text>
-<g transform="translate(70,119)">
-<path d="M0 0H100L124 28V113L62 154L0 113Z" fill="#10273C" stroke="#8CE6D9" stroke-width="3"/>
-<path d="M15 20H86L107 42V105L62 134L15 105Z" fill="none" stroke="#8CE6D9" stroke-opacity=".42" stroke-width="2"/>
-<path d="M62 34L81 48L74 75H50L43 48Z" fill="#A5ECDD" opacity=".45"/>
-<text x="62" y="108" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="800" fill="#FFFFFF" letter-spacing="2">BFF</text>
-</g>
-<text x="230" y="192" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="800" fill="#FFFFFF" letter-spacing="1.4">BALKAN</text>
-<text x="230" y="270" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="800" fill="#FFFFFF" letter-spacing="1.4">FOOTBALL</text>
-<text x="230" y="347" font-family="Arial,Helvetica,sans-serif" font-size="69" font-weight="800" fill="#FFFFFF" letter-spacing="1.4">FEDERATION</text>
-<path d="M74 388H683" stroke="url(#aqua)" stroke-width="3" opacity=".9"/>
-<text x="75" y="429" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="5" fill="#BCD5DF">RULES  /  COMPETITION  /  STANDARDS</text>
-<text x="75" y="468" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4" fill="#E5C68B">2026 OFFICIAL EDITION</text>
-<g transform="translate(1130,250)">
-<circle r="198" fill="#0D2436" opacity=".65"/>
-<circle r="178" fill="none" stroke="#73D6C9" stroke-opacity=".5" stroke-width="3"/>
-<circle r="151" fill="none" stroke="#E8C888" stroke-opacity=".36" stroke-width="2"/>
-<circle r="118" fill="none" stroke="#8EE1D7" stroke-opacity=".15" stroke-width="5"/>
-<path d="M0 -78L73 -24L45 69H-45L-73 -24Z" fill="#C8F9EA" fill-opacity=".12" stroke="#8CE8D7" stroke-width="5"/>
-<path d="M0 -78V-143M73 -24L138 -43M45 69L83 128M-45 69L-83 128M-73 -24L-138 -43" stroke="#8CE8D7" stroke-opacity=".73" stroke-width="5" fill="none"/>
-<path d="M-89 -112L0 -143L89 -112L138 -43L122 66L83 128L0 160L-83 128L-122 66L-138 -43Z" stroke="#8CE8D7" stroke-opacity=".53" stroke-width="3" fill="none"/>
-<path d="M-89 -112L-138 -43L-122 66L-45 69M89 -112L138 -43L122 66L45 69" stroke="#E7D1A2" stroke-opacity=".45" stroke-width="3" fill="none"/>
-<path d="M0 -143L89 -112M0 -143L-89 -112M83 128L45 69M-83 128L-45 69" fill="none" stroke="#9FE5D8" stroke-opacity=".5" stroke-width="3"/>
-<circle r="178" fill="none" stroke="url(#gold)" stroke-width="4" stroke-dasharray="3 17" opacity=".45"/>
-</g>
-<rect x="0" y="0" width="1440" height="500" rx="32" fill="none" stroke="#91E1D7" stroke-opacity=".13" stroke-width="2"/>
-</g>
+<rect width="1200" height="340" rx="24" fill="url(#background)"/>
+<rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<circle cx="995" cy="155" r="260" fill="url(#glow)"/>
+<path d="M660 0H1200V340H905Z" fill="#FFFFFF" opacity=".025"/>
+<path d="M750 0H1200V340H1010Z" fill="#FFFFFF" opacity=".025"/>
+<rect x="55" y="57" width="84" height="84" rx="19" fill="none" stroke="url(#accent)" stroke-width="3"/>
+<path d="M73 120V76H95Q110 76 110 89Q110 101 97 101H73M73 101H100Q115 101 115 111Q115 122 100 122" fill="none" stroke="#E8F7FA" stroke-width="5" stroke-linejoin="round"/>
+<text x="165" y="88" fill="#8EE3D1" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="5">BFF / OFFICIAL DOCUMENT</text>
+<text x="55" y="205" fill="#FFFFFF" font-size="57" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="1">BALKAN FOOTBALL</text>
+<text x="55" y="264" fill="#FFFFFF" font-size="57" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="1">FEDERATION</text>
+<rect x="55" y="286" width="180" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="257" y="295" fill="#B9CADA" font-size="18" font-family="Arial, Helvetica, sans-serif" letter-spacing="2.5">RULES &amp; REGULATIONS</text>
+<circle cx="1010" cy="166" r="127" fill="none" stroke="#74DCCF" stroke-opacity=".38" stroke-width="2"/>
+<circle cx="1010" cy="166" r="101" fill="none" stroke="#BDE6E4" stroke-opacity=".19" stroke-width="2"/>
+<path d="M1010 108L1065 147L1044 208H976L955 147Z" fill="#95E3D5" fill-opacity=".13" stroke="#9BE7DD" stroke-width="4"/>
+<path d="M1010 108V65M1065 147L1109 131M1044 208L1071 247M976 208L946 247M955 147L910 130" fill="none" stroke="#B2E8E6" stroke-opacity=".7" stroke-width="4"/>
+<path d="M941 80L910 130L925 184L946 247L1010 270L1071 247L1097 184L1109 131L1080 80" fill="none" stroke="#7EDCD1" stroke-opacity=".53" stroke-width="3"/>
+<path d="M941 80L1010 65L1080 80M925 184L976 208M1097 184L1044 208" fill="none" stroke="#B2E8E6" stroke-opacity=".5" stroke-width="3"/>
+<circle cx="1010" cy="166" r="127" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="18"/>
 </svg>
