@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <p align="center">
   <img src="assets/bff-rulebook-cover.svg" alt="BFF — Balkan Football Federation | Official Rules and Regulations" width="100%">
 </p>
@@ -26,7 +28,7 @@
 > [!IMPORTANT]
 > **Official BFF documentation.** All registered players, club owners, managers, referees and staff must follow the current rulebook. The full regulations are available through the chapter links below.
 
-## ⚽ Match essentials
+## Match essentials
 
 | ⚽ **FORMAT** | ⏱️ **MATCH TIME** | 👥 **SQUAD LIMIT** |
 | :---: | :---: | :---: |
@@ -41,7 +43,7 @@
 > [!NOTE]
 > **Transfer Funds:** 2 TF = 1 Robux. Purchases may only be made through official BFF channels and methods permitted by Roblox.
 
-## 📖 Documentation library
+## Documentation library
 
 All BFF regulations are organized into nine chapters. Select a chapter to open its complete rulebook page.
 
@@ -59,7 +61,7 @@ All BFF regulations are organized into nine chapters. Select a chapter to open i
 
 ---
 
-## 🏆 Important match rules
+## Important match rules
 
 | **Minimum players** | **Extra time and penalties** |
 | :--- | :--- |
@@ -67,7 +69,7 @@ All BFF regulations are organized into nine chapters. Select a chapter to open i
 | **Club owners** | **Kits and captains** |
 | Owners may play for their own clubs **if registered**. Voluntary resignation requires **30 days** in office. [Club regulations](docs/04-clubs.md) | The **away team changes its kit** if colors clash. Captains may wear an identifying armband. [Kit regulations](docs/06-kits.md) |
 
-## 🛡️ Federation authority
+## Federation authority
 
 > [!TIP]
 > **Division Staff or higher-ranking authorized officials** may investigate match results, player eligibility, scheduling, transfers, referee conduct and other federation matters. The **League Staff Department** reviews club locks, contract disputes and ownership changes.
@@ -78,7 +80,7 @@ All BFF regulations are organized into nine chapters. Select a chapter to open i
 
 ---
 
-## 📌 Reading and updates
+## Reading and updates
 
 <details>
 <summary><strong>Who must follow these regulations?</strong></summary>
@@ -109,6 +111,6 @@ Open a chapter in the [Documentation library](#-documentation-library). Each cha
   <sub>OFFICIAL RULES &amp; REGULATIONS · 2026 EDITION</sub>
 </p>
 <p align="center">
-  <a href="#bff--official-documentation"><strong>↑ Back to top</strong></a><br>
+  <a href="#top"><strong>↑ Back to top</strong></a><br>
   <sub>© 2026 Balkan Football Federation. All rights reserved.</sub>
 </p>
