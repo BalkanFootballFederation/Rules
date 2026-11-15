@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">BFF — Balkan Football Federation</title>
+<desc id="desc">Official Rules and Regulations banner for the Balkan Football Federation.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1224"/><stop offset=".55" stop-color="#142442"/><stop offset="1" stop-color="#101827"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64D8CB"/><stop offset="1" stop-color="#9AE6B4"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#3FA9AF" stop-opacity=".22"/><stop offset="1" stop-color="#3FA9AF" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#A8DFF0" stroke-opacity=".05" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#background)"/>
+<rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<circle cx="995" cy="155" r="260" fill="url(#glow)"/>
+<path d="M660 0H1200V340H905Z" fill="#FFFFFF" opacity=".025"/>
+<path d="M750 0H1200V340H1010Z" fill="#FFFFFF" opacity=".025"/>
+<rect x="55" y="57" width="84" height="84" rx="19" fill="none" stroke="url(#accent)" stroke-width="3"/>
+<path d="M73 120V76H95Q110 76 110 89Q110 101 97 101H73M73 101H100Q115 101 115 111Q115 122 100 122" fill="none" stroke="#E8F7FA" stroke-width="5" stroke-linejoin="round"/>
+<text x="165" y="88" fill="#8EE3D1" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="5">BFF / OFFICIAL DOCUMENT</text>
+<text x="55" y="205" fill="#FFFFFF" font-size="57" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="1">BALKAN FOOTBALL</text>
+<text x="55" y="264" fill="#FFFFFF" font-size="57" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="1">FEDERATION</text>
+<rect x="55" y="286" width="180" height="5" rx="2.5" fill="url(#accent)"/>
+<text x="257" y="295" fill="#B9CADA" font-size="18" font-family="Arial, Helvetica, sans-serif" letter-spacing="2.5">RULES &amp; REGULATIONS</text>
+<circle cx="1010" cy="166" r="127" fill="none" stroke="#74DCCF" stroke-opacity=".38" stroke-width="2"/>
+<circle cx="1010" cy="166" r="101" fill="none" stroke="#BDE6E4" stroke-opacity=".19" stroke-width="2"/>
+<path d="M1010 108L1065 147L1044 208H976L955 147Z" fill="#95E3D5" fill-opacity=".13" stroke="#9BE7DD" stroke-width="4"/>
+<path d="M1010 108V65M1065 147L1109 131M1044 208L1071 247M976 208L946 247M955 147L910 130" fill="none" stroke="#B2E8E6" stroke-opacity=".7" stroke-width="4"/>
+<path d="M941 80L910 130L925 184L946 247L1010 270L1071 247L1097 184L1109 131L1080 80" fill="none" stroke="#7EDCD1" stroke-opacity=".53" stroke-width="3"/>
+<path d="M941 80L1010 65L1080 80M925 184L976 208M1097 184L1044 208" fill="none" stroke="#B2E8E6" stroke-opacity=".5" stroke-width="3"/>
+<circle cx="1010" cy="166" r="127" fill="none" stroke="#FFFFFF" stroke-opacity=".08" stroke-width="18"/>
+</svg>
